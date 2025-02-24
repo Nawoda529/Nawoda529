@@ -71,11 +71,6 @@
 
 ---
 
-#### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nawoda529/Nawoda529/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
-</p>
 
 
 ### 📫 Let's Connect!
