@@ -138,4 +138,10 @@ Campus network design, DNS services, Linux administration, and Nagios monitoring
   <i>"Learning, Building, and Improving Every Day."</i>
 </p>
 
-![Snake animation](https://github.com/Nawoda529/Nawoda529/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <i>"Learning, Building, and Improving Every Day."</i>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nawoda529&theme=tokyo-night" />
+</p>
