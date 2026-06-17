@@ -114,11 +114,15 @@ Campus network design, DNS services, Linux administration, and Nagios monitoring
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Portfolio & Profiles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nawoda-muthusanduni-6bbb83283)
+🔗 Portfolio: https://nawoda-portfolio-six.vercel.app/
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)](mailto:nmuthusanduni@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/nawoda-muthusanduni-6bbb83283
+
+💻 GitHub: https://github.com/Nawoda529
+
+📧 Email: nmuthusanduni@gmail.com
 
 ---
 
