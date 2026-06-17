@@ -1,91 +1,141 @@
-<h1 align="center">Hi there, I'm Nawoda 👋</h1>
+<h1 align="center">Hi 👋, I'm Nawoda Muthusanduni</h1>
 
 <p align="center">
-  🚀 Third-year IT undergraduate specializing in Computer Systems & Network Engineering<br>
-  🎯 Aspiring DevOps & Cybersecurity Enthusiast | Innovator | Team Player
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Systems+%26+Network+Engineering+Student;AI+%7C+Cloud+%7C+Infrastructure+%7C+Networking;Building+Smart+Solutions+for+Real+World+Problems;Always+Learning+Something+New+🚀" />
 </p>
-
----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nawoda-muthusanduni-6bbb83283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nawoda-muthusanduni-6bbb83283" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/nawodya.kalpani.77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/nawodya.kalpani.77/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/na_woda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/na_woda/" height="30" width="40" /></a>
-</p>
-
----
-### 🌟 About Me
-
-- 🎓 Currently pursuing **BSc (Hons) in Information Technology** at SLIIT, Malabe, Sri Lanka.
-- 🔐 Passionate about **Cybersecurity, DevOps, and IoT-based Smart City solutions**.
-- 💡 Always ready to embrace challenges and innovate.
-- 🌱 Currently diving deeper into **Cloud Computing** and **Distributed Systems**.
-
----
-
-### 🔧 Tech Stack & Tools
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
----
-
-### 📚 Certifications
-
-- 🎖️ **CCNAv7: Switching, Routing, and Wireless Essentials (SRWE)**
-- 🎖️ **CCNAv7: Introduction to Networks**
-- 🎖️ **Cisco: Introduction to Cybersecurity**
-- 🎖️ **Alison: Introduction to Computer Network Security**
-- 🎖️ **Alison: Computer Networking - Digital Network Security**
-- 🎖️ **Great Learning: AWS for Beginners**
-- 🎖️ **Oracle: Introduction to Oracle Cloud Essentials**
-
----
-
-### 🚀 Featured Projects
-
-- 🌍 **IoT-Based Environmental Monitoring System**  
-  Real-time system to monitor temperature, humidity, noise, and air quality using ESP32 microcontrollers and machine learning for predictive analysis.
-
-- 📡 **Simplified Torrent File Exchange**  
-  A socket programming assignment simulating file-sharing using client-server architecture, handling multi-client communication efficiently.
-
-- 🎯 **Smart City Distributed Embedded System**  
-  A smart system for air quality, noise sensing, and traffic analysis with real-time data monitoring through an app.
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nawoda529&show_icons=true&theme=radical" alt="Nawoda's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawoda529&theme=radical" alt="GitHub Streak Stats">
+  <img src="https://komarev.com/ghpvc/?username=Nawoda529&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
+## 🌟 About Me
 
+🎓 Final-Year IT Undergraduate at SLIIT
 
-### 📫 Let's Connect!
+💻 Computer Systems & Network Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)  
+☁️ Interested in Cloud Computing & DevOps
+
+🤖 AI & Machine Learning Enthusiast
+
+🌐 Networking & Infrastructure Explorer
+
+🚀 Passionate about solving real-world problems through technology
+
+---
+
+## 🎯 Currently Working On
+
+🔹 AI-Powered Educational Assistant (Research)
+
+🔹 Smart IoT Beehive Monitoring System
+
+🔹 Cloud & Infrastructure Learning
+
+🔹 Building my Technical Portfolio
+
+---
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,linux,azure,aws,git,github,vscode"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI-Powered Educational Assistant
+
+Sinhala educational assistant featuring question answering, automated answer evaluation, and intelligent document analysis.
+
+### 🐝 Smart IoT Beehive Monitoring System
+
+AI-powered beehive monitoring and intrusion detection using cloud analytics and predictive insights.
+
+### 🌍 IoT Environmental Monitoring System
+
+Real-time environmental monitoring with predictive analytics and smart dashboards.
+
+### 🌐 Network & Infrastructure Projects
+
+Campus network design, DNS services, Linux administration, and Nagios monitoring.
+
+---
+
+## 📜 Certifications
+
+🏅 CCNAv7: Introduction to Networks
+
+🏅 CCNAv7: Switching, Routing & Wireless Essentials
+
+🏅 Cisco: Introduction to Cybersecurity
+
+🏅 Oracle Cloud Essentials
+
+🏅 AWS for Beginners
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nawoda529&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nawoda529&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawoda529&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawoda529&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nawoda529&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nawoda-muthusanduni-6bbb83283)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)](mailto:nmuthusanduni@gmail.com)
+
+---
+
+## ⚡ Fun Facts
+
+🔹 I enjoy building AI and IoT solutions
+
+🔹 I love learning cloud and infrastructure technologies
+
+🔹 I believe technology should solve real-world problems
+
+🔹 Always exploring something new 🚀
 
 ---
 
 <p align="center">
-  "Proactively embracing challenges and driving innovation, one solution at a time."
+  <i>"Learning, Building, and Improving Every Day."</i>
 </p>
 
----
-# Thank you for visiting my profile. You're a gem. :gem:
-
-![Visitor Count](https://profile-counter.glitch.me/Nawoda529/count.svg)
-
-<hr>
+![Snake animation](https://github.com/Nawoda529/Nawoda529/blob/output/github-contribution-grid-snake.svg)
